@@ -13,6 +13,6 @@ Included in this repo are:
 
 
 
-![Icon Set](hortonworks_icons_for_hadoop.png)
+![Icon Set](Hortonworks_Icons_For_Hadoop.png?raw=true)
 
 
